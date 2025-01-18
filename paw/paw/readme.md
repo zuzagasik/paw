@@ -1,4 +1,4 @@
-Projekt grupowy aplikacje webowe
+# Projekt grupowy aplikacje webowe
 ## Autorzy:
-Julia Zielińska 
-Zuzanna Gasik 
+* Julia Zielińska 
+* Zuzanna Gasik 
