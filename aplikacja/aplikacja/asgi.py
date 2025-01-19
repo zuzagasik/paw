@@ -1,5 +1,5 @@
 """
-ASGI config for Aplikacja_do_wypozyczania_sprzetu_sportowego project.
+ASGI config for Aplikacja project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
